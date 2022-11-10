@@ -1,6 +1,6 @@
 # BIOS-TASKS
-##Sahithya Kattamuri
-###Tasks
+## Sahithya Kattamuri
+## Tasks
 |TASK LISTS    | DESCRIPTION                | STATUS        |
 | :---         |     :---:                  |          ---: |
 | TASK 1       |  Port Manipulation         | Completed     |
