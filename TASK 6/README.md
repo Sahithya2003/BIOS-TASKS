@@ -9,9 +9,9 @@
 - A relay attack usually involves two people working together. One stands by the targeted vehicle, while the other stands near the house with a device that can pick up a signal from the key fob. What’s more, some devices can pick up a signal from over 100 meters away.
 -Key fobs are always listening out for signals broadcast from their car but the key fob needs to be quite close to the car so the car’s antenna can detect the signal and automatically unlock the car. Criminals can use radio amplification equipment to boost the signal of a fob that is out of range of the car (e.g. inside the owner’s home), intercept the signal, and transmit it to a device placed near the car. This device then sends the “open sesame” message it received to the car to unlock it and give access to the thief
 ## HOW THIS WORKS(IN SHORT)
-1.The first thief sends a signal to a car, impersonating a key fob
-2.The car replies with a request for authentication
-3.This signal is transmitted to the second thief, stationed near the real key fob, e.g. in a restaurant or mall
-4.The second thief relays this signal to the fob
-5.The fob replies with its credentials
-6.The second thief relays the authentication signal to the first thief who uses it to unlock the car
+1. The first thief sends a signal to a car, impersonating a key fob
+2. The car replies with a request for authentication
+3. This signal is transmitted to the second thief, stationed near the real key fob, e.g. in a restaurant or mall
+4. The second thief relays this signal to the fob
+5. The fob replies with its credentials
+6. The second thief relays the authentication signal to the first thief who uses it to unlock the car
