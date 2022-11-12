@@ -1,5 +1,3 @@
-## FLOWGRAPH
-![image](https://user-images.githubusercontent.com/92243343/201467189-673d283e-fac4-4fc0-892d-9a01630d8501.png)
 ## CODE
 ![Screenshot from 2022-11-12 13-59-10](https://user-images.githubusercontent.com/92243343/201465677-a036a990-2dd7-4e62-aac1-7a05e9ddda21.png)
 # SIMULATION
