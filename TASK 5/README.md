@@ -1,4 +1,4 @@
-#IQ SIGNALS
+# IQ SIGNALS
 - Quadrature signals, also called IQ signals, IQ data or IQ samples, are often used in RF applications. They form the basis of complex RF signal modulation and demodulation, both in hardware and in software, as well as in complex signal analysis
 
 - A pair of periodic signals are said to be in “quadrature” when they differ in phase by 90 degrees.
