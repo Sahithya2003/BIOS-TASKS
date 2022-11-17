@@ -16,8 +16,8 @@
 -  Sampling is the operation of observing a continuous signal and taking a finite number of samples at a given sampling rate fs. Hence IQ signals are used for signal modulation  for solving complex number equations while sampling the signal
 
 - While simulating some radio we have mainly two type of signals:
- -> any low frequency or baseband signal are real signal, they are represented by real signals
- -> every passband signal(Energy =0 at 0hz frequency,and a spectrum located near a high frequency) must be represented by their equivalent baseband complex signal (excepted for systems having very low carrier frequency)
+1. any low frequency or baseband signal are real signal, they are represented by real signals
+2. every passband signal(Energy =0 at 0hz frequency,and a spectrum located near a high frequency) must be represented by their equivalent baseband complex signal (excepted for systems having very low carrier frequency)
  
 - When the maximum frequency of the signal spectrum do not respect Nyquist theorem, one should filter the signal with a low pass filter having a cutt-off frequency lower then Fs/2 before sampling: this correspond to the anti-aliasing filter used in every SDR hardware.(optional)-USE OF A LOW PASS CAPACITOR in AM MODULATION
 - The I-channel preserves the symmetry in the RF input signal, while the Q-channel
