@@ -4,8 +4,8 @@
 - A pair of periodic signals are said to be in “quadrature” when they differ in phase by 90 degrees.
 
 - The “in-phase” or reference signal is referred to as “I,” and the signal that is shifted by 90 degrees (the signal in quadrature) is called “Q.”
--> COSINE WAVE-IN-PHASE
--> SINE WAVE-QUARATURE
+- > COSINE WAVE-IN-PHASE
+- > SINE WAVE-QUARATURE
 
 - Software Defined Radio (SDR) systems use these concepts extensively because the baseband I & Q signals are often represented as discrete time sampled data. Therefore,   digital signal processing (DSP) can be used to literally define the transmitter and receiver characteristics including filtering, modulation and demodulation,SDR       receivers often feature a baseband bandwidth of a few hundred kHz or more, giving the ability to perform a wide variety of functions including “wide” bandscope and spectrogram functions, as well as being able to simultaneously monitor and demodulate several signals of different types at once.
 
